@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KiwilandTrain.App/1.0.0": {
+        "dependencies": {
+          "Kiwiland.Service": "1.0.0"
+        },
+        "runtime": {
+          "KiwilandTrain.App.dll": {}
+        }
+      },
+      "Kiwiland.Service/1.0.0": {
+        "runtime": {
+          "Kiwiland.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KiwilandTrain.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kiwiland.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
