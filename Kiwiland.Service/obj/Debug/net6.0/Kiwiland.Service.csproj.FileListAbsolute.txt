@@ -1,0 +1,12 @@
+/Users/ricardocerda/Projects/_Practicas/KiwilandTrain/Kiwiland.Service/obj/Debug/net6.0/Kiwiland.Service.csproj.AssemblyReference.cache
+/Users/ricardocerda/Projects/_Practicas/KiwilandTrain/Kiwiland.Service/obj/Debug/net6.0/Kiwiland.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardocerda/Projects/_Practicas/KiwilandTrain/Kiwiland.Service/obj/Debug/net6.0/Kiwiland.Service.AssemblyInfoInputs.cache
+/Users/ricardocerda/Projects/_Practicas/KiwilandTrain/Kiwiland.Service/obj/Debug/net6.0/Kiwiland.Service.AssemblyInfo.cs
+/Users/ricardocerda/Projects/_Practicas/KiwilandTrain/Kiwiland.Service/obj/Debug/net6.0/Kiwiland.Service.csproj.CoreCompileInputs.cache
+/Users/ricardocerda/Projects/_Practicas/KiwilandTrain/Kiwiland.Service/bin/Debug/net6.0/Kiwiland.Service.deps.json
+/Users/ricardocerda/Projects/_Practicas/KiwilandTrain/Kiwiland.Service/bin/Debug/net6.0/Kiwiland.Service.dll
+/Users/ricardocerda/Projects/_Practicas/KiwilandTrain/Kiwiland.Service/bin/Debug/net6.0/Kiwiland.Service.pdb
+/Users/ricardocerda/Projects/_Practicas/KiwilandTrain/Kiwiland.Service/obj/Debug/net6.0/Kiwiland.Service.dll
+/Users/ricardocerda/Projects/_Practicas/KiwilandTrain/Kiwiland.Service/obj/Debug/net6.0/refint/Kiwiland.Service.dll
+/Users/ricardocerda/Projects/_Practicas/KiwilandTrain/Kiwiland.Service/obj/Debug/net6.0/Kiwiland.Service.pdb
+/Users/ricardocerda/Projects/_Practicas/KiwilandTrain/Kiwiland.Service/obj/Debug/net6.0/ref/Kiwiland.Service.dll
