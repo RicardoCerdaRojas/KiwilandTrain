@@ -55,7 +55,6 @@ public class KiwilandServiceShould
     [Theory]
     [InlineData('C', 'C', 3, 2)]
     [InlineData('C', 'C', 4, 3)]
-    [InlineData('A', 'C', 4, 4)] //I have 
     public void EvaluateNumberOfRoutes(char start, char end, int maxNumbersStops, int expected)
     {
         //Arrange
