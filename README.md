@@ -16,7 +16,8 @@ A search algorithm for calculation and optimization. In this case I used Dijkstr
 - Find the shortest distance between two points
 - Identify the number of possible routes between two points establishing not to travel more than a certain distance
 
-###Projects in the 
+### Projects in the Solution
+
 This solution was implemented in .net Core6 with C#. you will finde the following projects
 
 - [x] Kiwiland.Service
