@@ -1,11 +1,20 @@
 # KiwilandTrain
 The challenge of this project is to provide train users with optimized route information.
-
 The approach to the problem implements a tree structure with nodes to simulate the points or stations
-
 A search algorithm for calculation and optimization. In this case I used Dijkstra's algorithm
 
 ![](https://github.com/RicardoCerdaRojas/KiwilandTrain/blob/master/KiwilandTrain.App/graph.png)
+
+### Good Practices
+
+- [x] OPP
+- [x] Solid principles
+    - [ ] Single responsibility
+    - [ ] Open-close
+    - [ ] Liskov substitution
+    - [ ] Interface segregation
+    - [ ] Dependency inversion
+- [x] Unit Test
 
 ### Features
 
@@ -23,3 +32,4 @@ This solution was implemented in .net Core6 with C#. you will finde the followin
 - [x] Kiwiland.Service
 - [x] Kiwiland.App
 - [x] Kiwiland.Test
+
